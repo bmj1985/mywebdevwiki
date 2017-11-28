@@ -16,7 +16,9 @@ Steps for creating express server and deploying to heroku
 	a. express
 		`npm install express --save` or `npm install express --no-save`
 	b. cors
+		`npm install cors`
 	c. etc.
+		`npm install heroku`
 7. start the app
 	a. `node app.js` can also use `nodemon .`
 8. deploy to heroku	
