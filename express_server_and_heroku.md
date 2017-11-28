@@ -14,6 +14,7 @@ Steps for creating express server and deploying to heroku
 5. create .gitignore file `touch .gitignore` and add node_modules
 6. Install dependencies
 	a. express
+		`npm install express --save` or `npm install express --no-save`
 	b. cors
 	c. etc.
 7. start the app
